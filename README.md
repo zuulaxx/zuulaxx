@@ -5,7 +5,7 @@ Hello my name is zuulaxx and I'm a dev! 😁
 
 My profile photo : 
 
-
+![Avatar](Avatar.png)
 
 **[Discord](https://discord.gg/6jmGFVWAGk) | [Website](https://zuulaxx.ml)**
 ----------
