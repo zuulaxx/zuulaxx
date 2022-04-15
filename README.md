@@ -11,9 +11,9 @@ My avatar :
 ----------
 ## Here are my languages: ^^ 
 
-[![My stats](https://ghstats.stilic.ml/api?username=zuulaxx89&hide_title=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My stats](https://ghstats.stilic.ml/api?username=zuulaxx&hide_title=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My languages top](https://ghstats.stilic.ml/api/top-langs/?username=zuulaxx89&hide_title=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My languages top](https://ghstats.stilic.ml/api/top-langs/?username=zuulaxx&hide_title=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 __________
 If you want a more detailed ***biography*** it's here : 
 
