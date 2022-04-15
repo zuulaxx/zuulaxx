@@ -3,7 +3,7 @@ My __personal__ README!  :bowtie:
 
 Hello my name is zuulaxx and I'm a dev! 😁
 
-My profile photo : 
+My avatar :
 
 ![Avatar](Avatar.png)
 
