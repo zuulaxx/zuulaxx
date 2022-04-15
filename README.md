@@ -3,6 +3,10 @@ My __personal__ README!  :bowtie:
 
 Hello my name is zuulaxx and I'm a dev! 😁
 
+My profile photo : 
+
+
+
 **[Discord](https://discord.gg/6jmGFVWAGk) | [Website](https://zuulaxx.ml)**
 ----------
 Here are my languages: ^^ 
