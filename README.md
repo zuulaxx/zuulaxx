@@ -7,7 +7,7 @@ My avatar :
 
 ![Avatar](Avatar.png)
 
-**[Website](https://zuulaxx.ml) | [TikTok](https://zuulaxx.ml) | [Discord](https://discord.gg/6jmGFVWAGk)**
+**[Website](https://zuulaxx.ml) | [TikTok](https://www.tiktok.com/@the_dev_house) | [Discord](https://discord.gg/6jmGFVWAGk)**
 ----------
 ## Here are my languages: ^^ 
 
