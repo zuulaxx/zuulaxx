@@ -1,5 +1,5 @@
-# Hey! zuulaxx
-My __personal__ README!  :bowtie:
+# Hey! zuulaxx :octocat:
+My __personal__ README !  :bowtie:
 
 Hello my name is zuulaxx and I'm a dev! 😁
 
@@ -7,9 +7,9 @@ My avatar :
 
 ![Avatar](Avatar.png)
 
-**[Discord](https://discord.gg/6jmGFVWAGk) | [Website](https://zuulaxx.ml)**
+**[Website](https://zuulaxx.ml) | [Discord](https://discord.gg/6jmGFVWAGk)**
 ----------
-Here are my languages: ^^ 
+## Here are my languages: ^^ 
 
 [![My stats](https://ghstats.stilic.ml/api?username=zuulaxx89&hide_title=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
