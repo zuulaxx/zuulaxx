@@ -7,7 +7,7 @@ My avatar :
 
 ![Avatar](Avatar.png)
 
-**[Website](https://zuulaxx.ml) | [TikTok](https://www.tiktok.com/@zuulaxx.dev) | [Discord](https://discord.gg/BhWJsBchTV)**
+**[W̸̢̧̘͈̤̰̙̩̖̱͎̺͔̣̦̔̔̎̍̒͂̃͛̉͒̀͆̎̓̏̕é̵̡̦̱̩͓̫̼̱̠̖͓̊̓b̶̧̢̢̪͙̮͈̞̦͙̙͈̝̭̘́͊̂͛s̵̳̩͉̲͚̾͋̏̕̚͜͝͝͝ȋ̵̘͍̝̞͙̙͍͍̦̳̜̥̇̑̿̒͝t̴̨̢̨̲͖̟̹̰̺͓̭̱̹͍̬͒̌̎̇̃̊̐͘̚͝͠ȩ̷̣̠̭̬͇̑̊̔̍̋͂͗̔͘͠](https://zuulaxx.ml) | [TikTok](https://www.tiktok.com/@zuulaxx.dev) | [Discord](https://discord.gg/BhWJsBchTV)**
 ----------
 ## Here are my languages: ^^ 
 
