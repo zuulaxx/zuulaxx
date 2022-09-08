@@ -6,6 +6,8 @@ My __personal__ README !  :bowtie:
 
 Hello my name is zuulaxx and I'm a dev! 😁
 
+I am french dev 🇫🇷
+
 My avatar :
 
 ![Avatar](Avatar.png)
